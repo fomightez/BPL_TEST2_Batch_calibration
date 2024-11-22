@@ -1,3 +1,6 @@
+DEMO via MyBinder-served launches without login and everything already installed:  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/BPL_TEST2_Batch_calibration/main?urlpath=%2Flab%2Ftree%2FBPL_TEST2_Batch_calibration_colab.ipynb)
+
 # BPL_TEST2_Batch_calibration
 
 Material of standard text book model of batch cultivation where the model is calibrated using time series data for substrate and cell concentration. It is possible to upload your own batch data and calibrate the model for your data!
