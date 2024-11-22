@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+dependencies:
+  - pyfmi
+  - pandas
+  - matplotlib
+  - pip
+  - pip:
+    - rich
